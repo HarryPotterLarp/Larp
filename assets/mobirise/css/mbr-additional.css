@@ -2828,45 +2828,39 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.cid-rkqKow6jth {
-  padding-top: 120px;
-  padding-bottom: 120px;
+.cid-rkqNblZmFx {
+  padding-top: 90px;
+  padding-bottom: 135px;
   background-color: #efefef;
 }
-.cid-rkqKow6jth .mbr-section-subtitle {
+.cid-rkqNblZmFx h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rkqNblZmFx p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rkqNblZmFx .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-rkqNblZmFx .mbr-section-btn a {
+  margin: 0;
+}
+.cid-rkqNblZmFx .mbr-text {
   color: #767676;
 }
-.cid-rkqKow6jth .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
+.cid-rkqNblZmFx .card-wrapper {
+  height: 100%;
+  background: #ffffff;
 }
-.cid-rkqKow6jth .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-rkqKow6jth .team-item .item-image img {
-  width: 100%;
-}
-.cid-rkqKow6jth .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-rkqKow6jth .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-rkqKow6jth .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-rkqKow6jth .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-rkqKow6jth .team-item .item-caption {
-  background: #cccccc;
+@media (max-width: 767px) {
+  .cid-rkqNblZmFx .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
 }
 .cid-rkpk5N7for .navbar {
   padding: .5rem 0;
