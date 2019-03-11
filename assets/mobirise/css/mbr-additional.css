@@ -1803,6 +1803,46 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-rkqKow6jth {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #efefef;
+}
+.cid-rkqKow6jth .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rkqKow6jth .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rkqKow6jth .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rkqKow6jth .team-item .item-image img {
+  width: 100%;
+}
+.cid-rkqKow6jth .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rkqKow6jth .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rkqKow6jth .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rkqKow6jth .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rkqKow6jth .team-item .item-caption {
+  background: #cccccc;
+}
 .cid-rkpk5N7for .navbar {
   padding: .5rem 0;
   background: #c1c1c1;
@@ -2194,84 +2234,6 @@ body {
 .cid-rkpk5N7for .nav-link:hover,
 .cid-rkpk5N7for .dropdown-item:hover {
   color: #232323 !important;
-}
-.cid-rkpo8KQjfr {
-  background-image: url("../../../assets/images/new-half-blood-prince-stills-quidditch-pitch-harry-potter-6939803-1920-1080-1920x1080.jpg");
-}
-.cid-rkpo8KQjfr h1 {
-  color: #616161;
-}
-.cid-rkpo8KQjfr h2,
-.cid-rkpo8KQjfr h3,
-.cid-rkpo8KQjfr p {
-  color: #767676;
-}
-.cid-rkpo8KQjfr .mbr-section-subtitle {
-  font-style: italic;
-}
-.cid-rkpo8KQjfr H1 {
-  color: #ffffff;
-}
-.cid-rkpo8KQjfr H3 {
-  color: #ffffff;
-}
-.cid-rkpo8KQjfr .mbr-text,
-.cid-rkpo8KQjfr .mbr-section-btn {
-  color: #ffffff;
-}
-.cid-rkpoIk4Ho9 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #cccccc;
-}
-.cid-rkpoIk4Ho9 div.b {
-  padding-top: 2rem;
-}
-.cid-rkpoIk4Ho9 .mbr-text {
-  color: #767676;
-  margin: 0;
-  padding-top: 1.5rem;
-}
-.cid-rkpoIk4Ho9 a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rkpoIk4Ho9 .google-map {
-  height: 26rem;
-  position: relative;
-}
-.cid-rkpoIk4Ho9 .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rkpoIk4Ho9 .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rkpoIk4Ho9 .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rkpoIk4Ho9 .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-rkpoIk4Ho9 div.left-block.wrapper {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-}
-@media (max-width: 767px) {
-  .cid-rkpoIk4Ho9 div.left-block.wrapper {
-    padding-bottom: 3rem;
-  }
 }
 .cid-rkqC1NFmnN {
   padding-top: 30px;
@@ -2828,40 +2790,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.cid-rkqNblZmFx {
-  padding-top: 90px;
-  padding-bottom: 135px;
-  background-color: #efefef;
-}
-.cid-rkqNblZmFx h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-rkqNblZmFx p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-}
-.cid-rkqNblZmFx .mbr-section-btn {
-  padding-top: 2.5rem;
-}
-.cid-rkqNblZmFx .mbr-section-btn a {
-  margin: 0;
-}
-.cid-rkqNblZmFx .mbr-text {
-  color: #767676;
-}
-.cid-rkqNblZmFx .card-wrapper {
-  height: 100%;
-  background: #ffffff;
-}
-@media (max-width: 767px) {
-  .cid-rkqNblZmFx .card:not(.last-child) {
-    padding-bottom: 2rem;
-  }
-}
 .cid-rkpk5N7for .navbar {
   padding: .5rem 0;
   background: #c1c1c1;
@@ -3253,6 +3181,84 @@ body {
 .cid-rkpk5N7for .nav-link:hover,
 .cid-rkpk5N7for .dropdown-item:hover {
   color: #232323 !important;
+}
+.cid-rkpo8KQjfr {
+  background-image: url("../../../assets/images/new-half-blood-prince-stills-quidditch-pitch-harry-potter-6939803-1920-1080-1920x1080.jpg");
+}
+.cid-rkpo8KQjfr h1 {
+  color: #616161;
+}
+.cid-rkpo8KQjfr h2,
+.cid-rkpo8KQjfr h3,
+.cid-rkpo8KQjfr p {
+  color: #767676;
+}
+.cid-rkpo8KQjfr .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-rkpo8KQjfr H1 {
+  color: #ffffff;
+}
+.cid-rkpo8KQjfr H3 {
+  color: #ffffff;
+}
+.cid-rkpo8KQjfr .mbr-text,
+.cid-rkpo8KQjfr .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-rkpoIk4Ho9 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #cccccc;
+}
+.cid-rkpoIk4Ho9 div.b {
+  padding-top: 2rem;
+}
+.cid-rkpoIk4Ho9 .mbr-text {
+  color: #767676;
+  margin: 0;
+  padding-top: 1.5rem;
+}
+.cid-rkpoIk4Ho9 a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rkpoIk4Ho9 .google-map {
+  height: 26rem;
+  position: relative;
+}
+.cid-rkpoIk4Ho9 .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-rkpoIk4Ho9 .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-rkpoIk4Ho9 .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-rkpoIk4Ho9 .google-map[data-state="loading"] [data-state-details] {
+  display: none;
+}
+.cid-rkpoIk4Ho9 div.left-block.wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+@media (max-width: 767px) {
+  .cid-rkpoIk4Ho9 div.left-block.wrapper {
+    padding-bottom: 3rem;
+  }
 }
 .cid-rkqC1NFmnN {
   padding-top: 30px;
