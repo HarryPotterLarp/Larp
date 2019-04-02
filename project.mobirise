@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Harry Potter LARP",
-    "currentPage": "index.html",
+    "currentPage": "server.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3530,7 +3530,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/2019-04-02-21.04.55-1920x1017.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -3599,7 +3599,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/2019-03-31-12.06.52-1920x1017.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
